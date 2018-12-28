@@ -10,23 +10,25 @@ We will look in depth at Wendy Hui Kyong Chun’s theory of software as an analo
 ## Course
 [*Course Outline*](Course-Outline.md)
 
-**Agenda**
-Intro 6:30 - 6:40
-Lecture 6:40 - 8:00
-Break 8:00 - 8:10
-Artwork Screening 8:10 - 8:40
-Discussion 8:40 - 9:30
+**Agenda:**
+
+* Intro 6:30 - 6:40
+* Lecture 6:40 - 8:00
+* Break 8:00 - 8:10
+* Artwork Screening 8:10 - 8:40
+* Discussion 8:40 - 9:30
 
 
 ## Readings
 
-**Required**
+**Required:**
 
 1. [Wendy Hui Kyong Chun, “On Software or the Persistence of Visual Knowledge”](wendy-hui-kyong-chun_on-software.pdf)
 2. [American Artist, “Black Gooey Universe”](UNBAG_2_AmericanArtist.pdf)
 
 
-**Further Reading**
+**Further Reading:**
+
 * [Alexander Galloway, “Software as Ideology”, from *The Interface Effect*](galloway_alexander_software-as-ideology.pdf)
 * [Wendy Hui Kyong Chun, *Control and Freedom: Power and Paranoia in the Age of Fiber Optics*](Wendy_Hui_Kyong_Chun_Control_and_Freedom.pdf)
 * [Friedrich Kittler, “There is No Software”](Kittler_1992_No_Software.pdf)
