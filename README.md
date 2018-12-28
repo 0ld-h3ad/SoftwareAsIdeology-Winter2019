@@ -2,7 +2,7 @@
 
 [American Artist](http://americanartist.us/)\
 Code Societies, Winter 2019\
-[School for Poetic Computation](http://sfpc.io/codesocieties/)\
+[School for Poetic Computation](http://sfpc.io/codesocieties-winter-19/)\
 January 23, 2019 6:30 – 9:30PM
 
 We will look in depth at Wendy Hui Kyong Chun’s theory of software as an analogy for ideology and how she traces early computational design to existing dynamics of gender, power and control. We will also read the essay Black Gooey Universe by American Artist which considers how the erasure of Blackness (both formally and racially) was significant to the development of early computer interfaces. We will look at examples of artists and artworks that operate within these modes of critique.
