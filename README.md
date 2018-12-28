@@ -30,6 +30,11 @@ We will look in depth at Wendy Hui Kyong Chun’s theory of software as an analo
 **Further Reading:**
 
 * [Alexander Galloway, “Software as Ideology”, from *The Interface Effect*](galloway_alexander_software-as-ideology.pdf)
+* [Karl Marx, *A Contribution to the Critique of Political Economy*](https://www.marxists.org/archive/marx/works/1859/critique-pol-economy/index.htm)
+* [Raymond Williams, "Base and Superstructure" (pp. 75-82), from *Marx and Literature*](https://mykelandrada.files.wordpress.com/2011/06/raymond-williams-marxism-and-literature.pdf)
 * [Wendy Hui Kyong Chun, *Control and Freedom: Power and Paranoia in the Age of Fiber Optics*](Wendy_Hui_Kyong_Chun_Control_and_Freedom.pdf)
 * [Friedrich Kittler, “There is No Software”](Kittler_1992_No_Software.pdf)
+* [Jared Sexton, “The Vel of Slavery: Tracking the Figure of the Unsovereign.” Critical Sociology 42](http://planetarities.web.unc.edu/files/2015/01/sexton-unsovereign.pdf)
+* [Willie Osterweil “What Was the Nerd?” Real Life, February 28, 2017](https://reallifemag.com/what-was-the-nerd/)
+* [Frank B. Wilderson III “‘We’re trying to destroy the world’ Anti-Blackness & Police Violence After Ferguson.” IMIXWHATILIKE](http://sfbay-anarchists.org/wp-content/uploads/2015/01/frank-b-wilderson-iii-were-trying-to-destroy-the-world-antiblackness-police-violence-after-ferguson.pdf)
 
