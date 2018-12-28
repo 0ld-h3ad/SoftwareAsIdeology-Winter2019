@@ -30,6 +30,7 @@ We will look in depth at Wendy Hui Kyong Chun’s theory of software as an analo
 **Further Reading:**
 
 * [Alexander Galloway, “Software as Ideology”, from *The Interface Effect*](galloway_alexander_software-as-ideology.pdf)
+* [Imamu Amiri Baraka (LeRoi Jones), "Technology and Ethos Vol. 2 Book of Life" from *Amistad2*](http://www.marilynnance.com/titanic/baraka.html)
 * [Karl Marx, *A Contribution to the Critique of Political Economy*](https://www.marxists.org/archive/marx/works/1859/critique-pol-economy/index.htm)
 * [Raymond Williams, "Base and Superstructure" (pp. 75-82), from *Marx and Literature*](https://mykelandrada.files.wordpress.com/2011/06/raymond-williams-marxism-and-literature.pdf)
 * [Wendy Hui Kyong Chun, *Control and Freedom: Power and Paranoia in the Age of Fiber Optics*](Wendy_Hui_Kyong_Chun_Control_and_Freedom.pdf)
