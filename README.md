@@ -8,7 +8,7 @@ January 23, 2019 6:30 – 9:30PM
 We will look in depth at Wendy Hui Kyong Chun’s theory of software as an analogy for ideology and how she traces early computational design to existing dynamics of gender, power and control. We will also read the essay Black Gooey Universe by American Artist which considers how the erasure of Blackness (both formally and racially) was significant to the development of early computer interfaces. We will look at examples of artists and artworks that operate within these modes of critique.
 
 ## Course
-[*Course Outline*](Course-Outline.md)
+[*Course Outline*](https://docs.google.com/document/d/13erMyC592Mdaw8c-lrs_dsuDD_kt_oOHaJ42tMt5MHo/edit?usp=sharing)
 
 **Agenda:**
 
